@@ -1,0 +1,6 @@
+{
+  "name": "BUILDMETRIC // Unified Fit-out & Cost Estimator",
+  "description": "Enterprise PropTech workspace for commercial fit-out feasibility, AI layout takeoff, rate card engineering, multi-trade approvals, and deal structuring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
